@@ -1,2 +1,2 @@
-# ChainOfResponsibilityPattern
-责任链设计模式代码实现
+# iOS Design Pattern
+iOS设计模式代码实现
